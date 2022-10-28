@@ -1,0 +1,2 @@
+# NCD_PYTHON_MYSQL
+COMMIT is imp
