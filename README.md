@@ -1,2 +1,1 @@
-# NCD_PYTHON_MYSQL
-COMMIT is imp
+# NCD-risk-assessment-check-list-by-using-python-with-registration-page-
